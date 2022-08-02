@@ -1,0 +1,15 @@
+.charts-container{
+    display: grid;
+    grid-template-columns: repeat(2 , 1fr);
+    gap: 10px;
+    /* justify-content: center;
+    align-items: center; */
+}
+.chart{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.chart span{
+    color: rgb(97, 9, 179);
+}
