@@ -1,0 +1,65 @@
+[
+    {
+      "id": "1",
+      "name": "Zelma Stark",
+      "rating": 3,
+      "image": "http://placehold.it/32x32",
+      "comments": "I was in NYC visiting my daughter in February, when there were distant news stories of the pandemic.  I purchased this MacBook because her old one was having issues, and she needed one for work - long story short, Apple covered her issue, and I finally had a new MacBook (I always received the hand me downs.)..\r\n"
+    },
+    {
+      "id": "2",
+      "name": "Baldwin Dorsey",
+      "rating": 5,
+      "image": "http://placehold.it/32x32",
+      "comments": "I bought this MacBook Pro because I am working on my MBA and I wanted a new MacBook Pro with great battery life and excellent quality fit and finish. I appreciate the fine things in life, and along with my other Apple products I was not disappointed. \r\n"
+    },
+    {
+      "id": "3",
+      "name": "Harvey Luna",
+      "rating": 3,
+      "image": "http://placehold.it/32x32",
+      "comments": "The Retina display is absolutely stunning and easy on the eyes. Light, sleek design. Easy to connect all your devices and perfect for on the go use, as I bought it for college.\r\n"
+    },
+    {
+      "id": "4",
+      "name": "Susana Bradley",
+      "rating": 5,
+      "image": "http://placehold.it/32x32",
+      "comments": "I've used the laptop for a week and I am blown away. Performance, screen, battery life, and build quality are all exceptional. If you have never owned a MacBook and you're looking to jump in, now is the perfect time at $1,199 or $1,399 with the discount. This is the best value MacBook for the performance you're getting in a long time. \r\n"
+    },
+    {
+      "id": "5",
+      "name": "Constance Robinson",
+      "rating": 4,
+      "image": "http://placehold.it/32x32",
+      "comments": "So far I have not had any issues with anything except for the fan going full speed when it is plugged in. The hard drive is rather small especially for the price but it does a good job. It is much faster than older models with spinning hard drives. The display is nice and the touchbar can be good or bad.\r\n"
+    },
+    {
+      "id": "6",
+      "name": "Lelia Macias",
+      "rating": 5,
+      "image": "http://placehold.it/32x32",
+      "comments": " bought the new 2019 macbook pro with touch bar. I have a windows 10 laptop with much higher specs but this mac never feels slow and weak in terms of performance as compared to it.\r\n"
+    },
+    {
+      "id": "7",
+      "name": "Danielle Ratliff",
+      "rating": 5,
+      "image": "http://placehold.it/32x32",
+      "comments": "I had the MacBook Pro before and decided to switch to the MacBook air for school. Best decision ever, especially because it is lighter.\r\n"
+    },
+    {
+      "id": "8",
+      "name": "Rosanne Myers",
+      "rating": 5,
+      "image": "http://placehold.it/32x32",
+      "comments": "It is a great personal computer. Went with the touch bar and 256gb because it was on sale. Definitely go with more storage because nowadays to back up your phone you will need at least 128gb. The color displays are great and the machine can run multiple apps at once without a hitch.  \r\n"
+    },
+    {
+      "id": "9",
+      "name": "Maude Phelps",
+      "rating": 5,
+      "image": "http://placehold.it/32x32",
+      "comments": "This is the first Mac that I have used. I have only ever had a Lenovo and was skeptical to switch to apple despite having all other apple devices. I wasn't sure if I wanted to take the chance on hating it (since its so expensive) just to have the added perks of all of my devices connecting together.\r\n"
+    }
+  ]

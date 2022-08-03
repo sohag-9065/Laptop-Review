@@ -1,3 +1,9 @@
+.dashboard-container{
+    margin-top: 120px;
+}
+.dashboard-heading{
+    font-size: 60px;
+}
 .charts-container{
     display: grid;
     grid-template-columns: repeat(2 , 1fr);

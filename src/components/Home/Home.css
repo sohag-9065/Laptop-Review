@@ -1,16 +1,53 @@
+.home-container{
+    margin-top: 120px;
+}
 .header-container{
     display: flex;
     align-items: center;
-    
 }
 .header-details{
     width: 60%;
+    padding: 50px;
+}
+.header-details h1{
+    font-size: 80px;
+    margin: 0;
+    padding: 0;
+    color: blue;
+}
+.header-details p{
+   text-align: center;
+   padding-left: 50px;
+   font-size: 20px;
+   color: rgb(28, 28, 121);
+   margin-bottom: 50px;
+}
+.link-design{
+    text-decoration: none;
+    color: white;
+    background-color: #1C2B35;
+    font-size: 25px;
+    padding: 13px 26px;
+    border-radius: 30px;
+ }
+ .header-details a:hover{
+    color: rgb(200, 236, 69);
+    
 }
 .header-image {
     width: 40%;
 }
 .header-image img{
     width: 80%;
-    margin-top: 50px;
     
+    
+}
+.home-review-container .heading{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 60px;
+    color: rgb(157, 157, 237);
+}
+.bottom-button{
+    margin: 30px;
 }

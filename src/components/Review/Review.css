@@ -1,0 +1,21 @@
+.review-container{
+    display: flex;
+    justify-content: center;
+}
+.cart{
+    text-align: start;
+    width: 700px;
+    padding: 10px 20px;
+    background-color: #254c62;
+    margin: 10px;
+    border-radius: 15px;
+}
+.review-heading{
+    font-size: 18px;
+}
+.cart p{
+    color: rgb(240, 235, 238);
+}
+.review-heading{
+    color: rgb(208, 192, 243);
+}

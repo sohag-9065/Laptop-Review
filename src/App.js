@@ -7,7 +7,7 @@ import Blogs from './components/Blogs/Blogs';
 import Dashboard from './components/Dashboard/Dashboard';
 import Header from './components/Header/Header';
 import Home from './components/Home/Home';
-import Review from './components/Review/Review';
+import Reviews from './components/Reviews/Reviews';
 
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
       <Routes>
         <Route path='/' element={<Home></Home>}></Route>
         <Route path='/Home' element={<Home></Home>}></Route>
-        <Route path='/Review' element={<Review></Review>}></Route>
+        <Route path='/Review' element={<Reviews></Reviews>}></Route>
         <Route path='/Dashboard' element={<Dashboard></Dashboard>}></Route>
         <Route path='/Blogs' element={<Blogs></Blogs>}></Route>
         <Route path='/About' element={<About></About>}></Route>

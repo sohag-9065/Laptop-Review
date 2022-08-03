@@ -10,11 +10,11 @@ const Dashboard = () => {
             .then(data => setChartData(data));
     }, [])
     return (
-        <div>
-            <h1> Four Types Chart</h1>
+        <div className='dashboard-container'>
+            <h1 className='dashboard-heading'> Four Types Chart</h1>
             <div className="charts-container">
                 <div className="chart">
-                    <h1>Line Chart: <span>Sell</span></h1>
+                    <h1 className='chart-heading'>Line Chart: <span>Sell</span></h1>
                     <LineChart width={500} height={300} data={chartData} margin={{
                         top: 20, right: 20, bottom: 20, left: 20,
                     }}>
