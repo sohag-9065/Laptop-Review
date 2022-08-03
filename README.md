@@ -1,12 +1,10 @@
 # Laptop Review
- Markup : ```javascript
-         ```
-        
- Markup : 1. A numbered list
-              1. A nested numbered list
-              2. Which is numbered
-          2. Which is numbered         
-### Executing program
+       
+## Live Site Link (Netlify)
 
-* How to run the program
-* Step-by-step bullets
+
+## About My Project
+* It's Laptop Review project. 
+* Where user see customer review . Four type Chart.
+* Route , Nagigate , Link and more React Component use
+* Page Not Found set this project . when wrong path user types 
