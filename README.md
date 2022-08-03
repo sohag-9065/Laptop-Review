@@ -1,6 +1,7 @@
 # Laptop Review
        
 ## Live Site Link (Netlify)
+* https://imaginative-kataifi-5ec69a.netlify.app
 
 
 ## About My Project
