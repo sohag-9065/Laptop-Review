@@ -1,0 +1,9 @@
+.questionsAndAnswer-container{
+    margin-top: 120px;
+}
+.questionsAndAnswer-container div{
+    background-color: antiquewhite;
+    padding:20px;
+    margin: 20px 200px;
+    text-align: start;
+}

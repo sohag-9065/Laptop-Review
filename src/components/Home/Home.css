@@ -1,3 +1,4 @@
+
 .home-container{
     margin-top: 120px;
 }
@@ -50,4 +51,7 @@
 }
 .bottom-button{
     margin: 30px;
+}
+.bottom-button button{
+    cursor: pointer;
 }
